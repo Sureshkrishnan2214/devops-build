@@ -1,3 +1,3 @@
 #!/bin/bash
-docker build -t your-dockerhub-username/devops-build:latest .
+docker build -t sureshkrishnan2214/dev:latest .
 
